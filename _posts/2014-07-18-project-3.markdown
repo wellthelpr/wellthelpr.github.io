@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: cycle
+date: 2014-07-17
+img: cat3.PNG
+alt: image-alt
+project-date: en cours de dévelopement
+category: App Mobile/Web
+description: Dormir, travailler, manger... Nous croyons fortement que ce qui rythme notre quotidien peut affecter fortement notre prise en charge globale et ce de manière consciente et inconsciente! Une application mobile est votre meilleur allié, avec elle vous êtes en mesures de constater et peut-être de réajuster vos habitudes.
+
+---

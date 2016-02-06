@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: stress
+date: 2014-07-18
+img: cat1.jpg
+alt: image-alt
+project-date: en cours de dévelopement
+category: App Mobile/Web
+description: La vie est parsemé de moments que l'on souhaiterait oublier. Les choques, les douleurs passagères ou chroniques peuvent parfois s'estomper et tomber dans l'oublie. Nous souhaitons développer la meilleur application de suivi et de géstion de ces épisodes.
+
+---

@@ -1,0 +1,58 @@
+# Site settings
+title: wellthelpr
+email: wellthelpr@gmail.com
+url: https://wellthelpr.github.io
+description: "my google searche meta"
+skills: "Les données de votre bien-être sont magnifiques et méritent d'en être témoin tous les jours"
+meta_author: contact wellthelpr
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: disqus
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: wellthelpr
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 798693 #798693
+  primary-rgb: "45,87,119"
+  secondary: 2d5777 #2d5777
+  secondary-dark: 1C1E20 #1C1E20
+
+# Footer settings
+footer:
+  copyright: wellthelpr
+  location: Location
+  social: Around the Web
+  credits: Mention
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/wellthelpr
+  - title: facebook
+    url: https://www.facebook.com/wellthelpr
+  - title: github
+    url: http://github.com/wellthelpr
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: we are in
+  - line: Paris, France
+
+# Credits/Mention content
+credits: 'Mention legale: <a href="https://github.com/wellthelpr/wellthelpr.github.io/blob/master/LICENSE">licence</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
