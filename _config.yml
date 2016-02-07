@@ -24,11 +24,11 @@ disqus_shortname: wellthelpr
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 46F276 #798693
-  primary-rgb: "45,87,119"
-  secondary: 2d5777 #2d5777
+  primary: 83EBB6 #798693
+  primary-rgb: "130,235,181" #rgb(130, 235, 181)
+  secondary: 798693 #2d5777 #1A9FF5 #798693
   secondary-dark: 1C1E20 #1C1E20
-#46F276
+
 # Footer settings
 footer:
   copyright: wellthelpr
