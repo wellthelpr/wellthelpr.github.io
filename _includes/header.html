@@ -3,11 +3,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
+                    <img class="img-responsive" src="img/profile.png" alt="{{ post.alt }}">
                     <div class="intro-text">
-                        <span class="name">{{ site.title }}</span>
+                      <img class="img-responsive" src="img/fonts_logo.png" alt="{{ post.alt }}">
                         <img src="img/portfolio/icones_logo.png" class="img-responsive" alt="{{ post.alt }}">
-                        <span class="skills">{{ site.skills }}</span>
+                        <i class="fa fa-quote-left fa-2x"></i>
+                          <span class="skills">{{ site.skills }}</span>
+                            <i class="fa fa-quote-right fa-2x"></i>
                     </div>
                 </div>
             </div>
