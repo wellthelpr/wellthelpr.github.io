@@ -25,7 +25,7 @@ disqus_shortname: wellthelpr
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: "D6D6D6, 0.45" #rgba(#D6D6D6, 0.45)
-  primary-rgb: "130,235,181" #rgb(130, 235, 181)
+  primary-rgb: "214, 214, 214" #rgb(214, 214, 214)
   secondary: 83EBB6 #83EBB6
   secondary-dark: 272928 #272928
 

@@ -67,11 +67,11 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.secondary.dark }};
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.secondary.dark }};
     background-color: #fff;
 }
 
@@ -243,6 +243,7 @@ section.success {
 
 #portfolio * {
     z-index: 2;
+    color: #272928
 }
 
 @media(min-width:767px) {
@@ -399,6 +400,7 @@ footer .footer-below {
 .portfolio-modal .modal-content h2 {
     margin: 0;
     font-size: 3em;
+    color: #272928
 }
 
 .portfolio-modal .modal-content img {
@@ -407,6 +409,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content .item-details {
     margin: 30px 0;
+    color: #272928
 }
 
 .portfolio-modal .close-modal {
