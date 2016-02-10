@@ -3,7 +3,7 @@ title: wellthelpr
 email: wellthelpr@gmail.com
 url: https://wellthelpr.github.io
 description: "my google searche meta"
-skills: "Les données de votre bien-être sont inestimables et méritent d'en être témoin tous les jours"
+skills: "Les données de votre bien-être sont inestimables et méritent d’en être témoin tous les jours"
 meta_author: contact wellthelpr
 
 # Google webmaster tools
@@ -32,9 +32,9 @@ color:
 # Footer settings
 footer:
   copyright: wellthelpr
-  location: Location
-  social: Around the Web
-  credits: Mention
+  location: Localisation
+  social: Sur le Web
+  credits: Mentions légales
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,7 +51,7 @@ address:
   - line: Paris, France
 
 # Credits/Mention content
-credits: 'Mention legale: <a href="https://github.com/wellthelpr/wellthelpr.github.io/blob/master/LICENSE">licence</a>.'
+credits: 'Mentions légales: <a href="https://github.com/wellthelpr/wellthelpr.github.io/blob/master/LICENSE">licence</a>.'
 
 # Build settings
 markdown: kramdown

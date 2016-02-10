@@ -6,6 +6,6 @@ img: cat2.jpg
 alt: image-alt
 project-date: en cours de dévelopement
 category: App Mobile/Web
-description: Le sport, l'exercice intense ou modéré demande une rigueur soutenu pour relever vos performances réellements quantifiables. Parfois vous avez un ou plusieurs supports pratiques quand ils ne sont pas périssables et faire des corrélations sont difficiles car souvent sur des supports propriétaires. Le physique fait souvent office de résultat. Nous pensons qu'il y a quelque chose qui peut changer dans la manière d'utiliser et d'appréhender l'éffort physique.
+description: Le sport, l’exercice intense ou modéré demande une rigueur soutenu pour relever vos performances réellement quantifiables. Parfois vous avez un ou plusieurs supports pratiques quand ils ne sont pas périssables et faire des corrélations sont difficiles car souvent sur des supports propriétaires. Le physique fait souvent office de résultat. Nous pensons qu’il y a quelque chose qui peut changer dans la manière d’utiliser et d’appréhender l’effort physique.
 
 ---
