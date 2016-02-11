@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: cycle
+title: gestion des cycles
 date: 2014-07-17
 img: cat3.PNG
 alt: image-alt
