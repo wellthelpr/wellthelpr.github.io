@@ -274,7 +274,7 @@ section.success {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #272928;
 }
 
 .floating-label-form-group input,
@@ -286,6 +286,7 @@ section.success {
     border: 0;
     border-radius: 0;
     font-size: 1.5em;
+    color: #272928;
     background: 0 0;
     box-shadow: none!important;
     resize: none;
@@ -323,7 +324,7 @@ section.success {
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #fff;
 }
 
 footer {
@@ -392,6 +393,7 @@ footer .footer-below {
     border: 0;
     border-radius: 0;
     text-align: center;
+    color: #272928;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -400,7 +402,7 @@ footer .footer-below {
 .portfolio-modal .modal-content h2 {
     margin: 0;
     font-size: 3em;
-    color: #272928
+    color: #272928;
 }
 
 .portfolio-modal .modal-content img {
