@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: cardio
+title: gestion des activités
 date: 2014-07-17
 img: cat2.jpg
 alt: image-alt
